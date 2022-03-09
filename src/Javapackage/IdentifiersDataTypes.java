@@ -1,6 +1,7 @@
 // Group of java classes is called package
 package Javapackage;
 
+
 //group of behaviors is called class
 public class IdentifiersDataTypes {
 	
@@ -38,6 +39,9 @@ public class IdentifiersDataTypes {
 		int exp=6;
 		int name2='d';// int internally converts character into its ASCII value a-z -> 66, A-Z -> 64 - 99
 		System.out.println(name2);
+		AccessModifiers modify=new AccessModifiers();
+		
+		int i=modify.number1;
 		
 		
   	}
