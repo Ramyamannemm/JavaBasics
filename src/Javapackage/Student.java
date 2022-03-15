@@ -26,6 +26,7 @@ public class Student {
 		System.out.println(Suresh.RollNo + " " +Suresh.name );
 		System.out.println(Student.collegename);
 		
+		number
 		
 		//static varible - is a class level variable - they store in method area memory
 		

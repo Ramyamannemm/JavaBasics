@@ -7,6 +7,7 @@ public class Arrays {
 	
 	public static void main(String[] args)
 	{
+	 //int k=	AccessModifiers.number5;
 	int[] Rollnoarray=new int[50];//array declaration
 	int[] array2= {1,2,3,4,5}; // initialize the array
 	int array3[]=new int[4];

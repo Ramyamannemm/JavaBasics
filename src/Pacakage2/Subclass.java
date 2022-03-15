@@ -6,8 +6,8 @@ public class Subclass extends AccessModifiers {
 
 	public static void main(String[] args)
 	{
-		AccessModifiers modify=new AccessModifiers();
-		int k=modify.getNumber3();
+		Subclass s1=new Subclass();
+		int k=s1.number3;
 	}
 	
 	

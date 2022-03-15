@@ -1,29 +1,27 @@
 package Javapackage;
 
 public class AccessModifiers {
-	public int number1;
-	public static int number2;
-	private int number3;
+	public final int number1=6;
+	public static int number2=5;
+	protected int number3;
+	int number4;
+	private static int number5;
 
 	public static void main(String[] args)
 	{
 		//public- 
 		
 		
+		
+		
 	}
 	
 	public void addition()
 	{
-		
+		 int j=number5;
 	}
 
-	public int getNumber3() {
-		return number3;
-	}
-
-	public void setNumber3(int number3) {
-		this.number3 = number3;
-	}
+	
 	
 	
 	

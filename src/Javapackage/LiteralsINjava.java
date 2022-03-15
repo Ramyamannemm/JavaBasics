@@ -40,5 +40,7 @@ public class LiteralsINjava {
 		//boolean b4=0;//not valid
 		
 	}
+	 
+	
 
 }
