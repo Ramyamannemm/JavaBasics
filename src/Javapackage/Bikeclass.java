@@ -1,6 +1,6 @@
 package Javapackage;
 
-public class Bikeclass extends VehicleParentclass{
+public class Bikeclass extends VehicleParentclass,B{
 	
 	@Override
 	public void wheels()
